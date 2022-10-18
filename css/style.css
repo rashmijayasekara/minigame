@@ -38,15 +38,4 @@ body {
   transform: rotateY(180deg);
 }
 
-#float {
-  background-image: url("");
-  background-repeat: no-repeat;
-  position: absolute;
-  width: 200px;
-  height: 150px;
-  z-index: 999;
-  color: yellow;
-  top: 400px;
-}
-
 /*# sourceMappingURL=style.css.map */

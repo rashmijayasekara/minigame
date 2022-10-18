@@ -101,6 +101,6 @@ requestAnimationFrame(animate);
 
 setInterval (()=>{
     const cloud=document.getElementById("float");
-    cloud.backgroundImage=url('');
+    cloud.offsetLeft=
 
 },10);
