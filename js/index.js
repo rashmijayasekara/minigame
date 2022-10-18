@@ -99,8 +99,8 @@ requestAnimationFrame(animate);
 
 // requestAnimationFrame(repaint);
 
-setInterval (()=>{
-    const cloud=document.getElementById("float");
-    cloud.offsetLeft=
+// setInterval (()=>{
+//     const cloud=document.getElementById("float");
+//     cloud.offsetLeft=
 
-},10);
+// },10);
