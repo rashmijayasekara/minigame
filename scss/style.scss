@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    height: 100vh;
+    overflow: hidden;
+    // background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcxYiLh4zjDGTu8vhYfP16gn48NGA5JzL3Ng&usqp=CAU');
+   background-image: url('../img/graveyardtilesetnew/png/BG.png');
+//    background-image: url('../img/graveyardtilesetnew/png/Objects/Tree.png');
+   background-size: contain;
+   background-repeat: no-repeat;
+   background-color: rgb(3, 29, 29);
+}
+#player{
+    background-image: url('../img/adventure_girl/png/Idle\ \(1\).png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 150px;
+    height: 130px;
+    position: absolute;
+    bottom: 750px;
+}
+#brown{
+    background-color: rgb(24, 23, 23);
+    background-image: url('../img/graveyardtilesetnew/png/Tiles/Tile\ \(15\).png');
+    // background-image: url('../img/graveyardtilesetnew/png/Objects/DeadBush.png');
+    // background-image: url('../img/graveyardtilesetnew/png/Objects/Skeleton.png');
+    // background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    bottom: 0;
+    // width: 100vw;
+    left: 0rem;
+    right: 0rem;
+    height: 150px;
+}
+.turn{
+    transform: rotateY(180deg);
+}
+#float{
+    background-image: url('../img/graveyardtilesetnew/png/Objects/TombStone\ \(1\).png');
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    z-index: 999;
+    color: yellow;
+    top: 400px;
+}
