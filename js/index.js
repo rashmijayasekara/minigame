@@ -1,6 +1,5 @@
 const player = document.getElementById("player");
-const playerdown = document.getElementById("brown");
-console.log(player);
+const playerdown = document.getElementById("brown");  
 let dx = 0;
 let dy = 0;
 let acceleration = 0.3;
