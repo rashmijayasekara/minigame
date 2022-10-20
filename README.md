@@ -9,11 +9,17 @@ This is a mini-game that has been built with HTML, CSS, and JavaScript. The play
 - JavaScript
 
 ## Getting Started
+To get a local copy up and running follow the below steps
 
 ### Prerequisites
-- npm 
+- npm
 
 `npm install -g npm`
+
+- npx
+
+`npm install -g npx`
+
 - sass
 
 `npm install -g sass`
@@ -21,8 +27,8 @@ This is a mini-game that has been built with HTML, CSS, and JavaScript. The play
 ### Installation
 1. Open the terminal
 2. Clone the repository [https://github.com/rashmijayasekara/minigame](https://github.com/rashmijayasekara/minigame)
-3. `sass -w scss:css`
-
+3. `sass scss:css`
+4. `npx serve`
 
 
 ## License
