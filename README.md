@@ -34,6 +34,9 @@ To get a local copy up and running follow the below steps
 ## License
 Licensed under [MIT](/LICENSE.txt)
 
+## Version
+v 0.1.0
+
 
 ## Contact
 Contact [https://www.linkedin.com/in/rashmi-jayasekara/](https://www.linkedin.com/in/rashmi-jayasekara/)
