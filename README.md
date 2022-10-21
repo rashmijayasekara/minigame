@@ -35,7 +35,7 @@ To get a local copy up and running follow the below steps
 Licensed under [MIT](/LICENSE.txt)
 
 ## Version
-v 0.1.0
+v1.0.0
 
 
 ## Contact
